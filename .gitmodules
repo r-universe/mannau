@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "boilerpipeR"]
+	path = boilerpipeR
+	url = https://github.com/mannau/boilerpiper
+	shallow = true
+	registered = true
+[submodule "tm.plugin.webmining"]
+	path = tm.plugin.webmining
+	url = https://github.com/mannau/tm.plugin.webmining
+	shallow = true
+	registered = true
