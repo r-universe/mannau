@@ -2,9 +2,5 @@
   {
     "package": "boilerpipeR",
     "oncran": true
-  },
-  {
-    "package": "tm.plugin.webmining",
-    "oncran": true
   }
 ]

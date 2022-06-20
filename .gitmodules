@@ -8,8 +8,3 @@
 	url = https://github.com/mannau/boilerpiper
 	shallow = true
 	registered = true
-[submodule "tm.plugin.webmining"]
-	path = tm.plugin.webmining
-	url = https://github.com/mannau/tm.plugin.webmining
-	shallow = true
-	registered = true
